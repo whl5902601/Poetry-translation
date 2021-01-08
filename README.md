@@ -12,3 +12,5 @@
 1 transformer模型代码使用：https://github.com/Kyubyong/transformer
 
 2 语言模型GPT2代码使用：https://github.com/Morizeyao/GPT2-Chinese
+
+五位研究生进行了人工评价
